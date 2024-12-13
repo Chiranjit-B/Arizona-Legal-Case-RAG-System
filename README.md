@@ -4,8 +4,9 @@ Welcome to the **Legal Case Semantic Search and RAG System** repository! This pr
 
 ---
 
-## **🚀 Project Overview**
 
+## **🚀 Project Overview**
+![image](https://github.com/user-attachments/assets/6edc4229-8246-4201-a775-e5949522d85a)
 This system provides:
 
 - **Semantic Search**: Retrieve the most relevant legal documents based on user queries.
